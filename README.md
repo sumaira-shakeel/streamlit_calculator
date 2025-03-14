@@ -16,6 +16,8 @@ This is a simple calculator built using **Streamlit**. It allows you to perform 
 ## Installation & Running the App
 To run this project, follow these steps:
 
-1. Install Streamlit (if not installed):
-   ```bash
-   pip install streamlit
+1. uv init simple-calculator
+2. cd simple-calculator
+3. .venv\Scripts\activate
+   # how to run in local host
+   streamlit run (filename.py)
